@@ -36,10 +36,16 @@ cd cabocha-0.69
 make
 sudo make install
 ```
-## 6. Cabocha Python wrapper
+## 6. CaboCha Python wrapper
 8. When you are in the /cabocha-0.69/ directory run these commands:
 ```
 cd python
 sudo python3 setup.py install
 ```
+This is it! You've successfully installed everything you need to use CaboCha and Mecab in your Python programming.
 
+---
+### References
+* https://irukanobox.blogspot.com/2019/09/pythoncabocha.html?m=1
+* https://www.trifields.jp/install-cabocha-in-ubuntu-1038
+* https://irukanobox.blogspot.com/2019/09/pythoncabocha.html?m=1
