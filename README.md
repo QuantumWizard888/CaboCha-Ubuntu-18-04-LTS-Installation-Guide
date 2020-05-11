@@ -24,6 +24,7 @@ cd CRF++-0.58
 ./configure
 make
 sudo make install
+sudo ldconfig
 ```
 ## 5. CaboCha
 6. In this step you are ready to compile and install CaboCha. Download the latest version here:
@@ -48,4 +49,3 @@ This is it! You've successfully installed everything you need to use CaboCha and
 ### References
 * https://irukanobox.blogspot.com/2019/09/pythoncabocha.html?m=1
 * https://www.trifields.jp/install-cabocha-in-ubuntu-1038
-* https://irukanobox.blogspot.com/2019/09/pythoncabocha.html?m=1
