@@ -7,7 +7,7 @@ sudo apt-get install build-essential
 ## 2. Mecab
 2. Next, run this command:
 ```
-sudo apt-get install mecab libmecab-dev mecab-ipadic mecab-ipadic-utf8
+sudo apt-get install mecab libmecab-dev mecab-ipadic mecab-ipadic-utf8 mecab-jumandic mecab-jumandic-utf8
 ```
 ## 3. Mecab Python wrapper
 3. Then you need to install **mecab-python**:
