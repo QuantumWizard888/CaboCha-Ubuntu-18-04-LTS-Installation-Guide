@@ -43,6 +43,13 @@ sudo make install
 cd python
 sudo python3 setup.py install
 ```
+### ERROR: Cabocha Python wrapper can't find libcabocha.so.5
+If you encountered this kind of a problem, run these commands:
+```
+cd /usr/lib
+sudo ln -s /usr/local/lib/libcabocha.so.5 libcabocha.so.5
+```
+
 This is it! You've successfully installed everything you need to use CaboCha and Mecab in your Python programming.
 
 ---
