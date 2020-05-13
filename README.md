@@ -5,7 +5,7 @@
 sudo apt-get install build-essential
 ```
 ## 2. Mecab
-2. Next, run this command:
+2. Next, run this command to install **Mecab**:
 ```
 sudo apt-get install mecab libmecab-dev mecab-ipadic mecab-ipadic-utf8 mecab-jumandic mecab-jumandic-utf8
 ```
@@ -27,7 +27,7 @@ sudo make install
 sudo ldconfig
 ```
 ## 5. CaboCha
-6. In this step you are ready to compile and install CaboCha. Download the latest version here:
+6. In this step you are ready to compile and install **CaboCha**. Download the latest version here:
 https://drive.google.com/drive/folders/0B4y35FiV1wh7cGRCUUJHVTNJRnM
 7.  Go to the directory with the archive and execute:
 ```
