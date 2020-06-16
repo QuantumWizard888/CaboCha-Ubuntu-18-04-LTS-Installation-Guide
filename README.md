@@ -63,3 +63,5 @@ This is it! You've successfully installed everything you need to use CaboCha and
 * https://www.tech-tech.xyz/python-cabocha-mac.html
 * https://qiita.com/ayuchiy/items/c3f314889154c4efa71e
 * http://hiroshiu.blogspot.com/2018/08/basic-usage-of-cabocha-in-python.html
+* http://hiroshiu.blogspot.com/2018/04/how-to-add-user-dictionary-to-mecab.html
+* https://towardsdatascience.com/mecab-usage-and-add-user-dictionary-to-mecab-9ee58966fc6
