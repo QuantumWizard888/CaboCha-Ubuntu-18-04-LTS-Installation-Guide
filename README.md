@@ -58,3 +58,8 @@ This is it! You've successfully installed everything you need to use CaboCha and
 * https://www.trifields.jp/install-cabocha-in-ubuntu-1038
 * https://qiita.com/kazasiki/items/99505a5005aebe2efb7a
 * https://rpubs.com/auroratsai/440718
+* https://web.archive.org/web/20140928032627/gentlemachine.com/blog/2008/11/cabocha-learn.html
+* https://www.trifields.jp/python-cabocha-select-dependency-structure-1043
+* https://www.tech-tech.xyz/python-cabocha-mac.html
+* https://qiita.com/ayuchiy/items/c3f314889154c4efa71e
+* http://hiroshiu.blogspot.com/2018/08/basic-usage-of-cabocha-in-python.html
