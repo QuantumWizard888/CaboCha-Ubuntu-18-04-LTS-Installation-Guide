@@ -54,6 +54,8 @@ This is it! You've successfully installed everything you need to use CaboCha and
 
 ---
 ### References (including How-To on using CaboCha and Mecab in Python programming)
+* MeCab: https://taku910.github.io/mecab/
+* CaboCha: https://taku910.github.io/cabocha/
 * https://irukanobox.blogspot.com/2019/09/pythoncabocha.html?m=1
 * https://www.trifields.jp/install-cabocha-in-ubuntu-1038
 * https://qiita.com/kazasiki/items/99505a5005aebe2efb7a
